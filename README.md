@@ -1,29 +1,10 @@
-# mixins-vue
+# Router - Vue
 
-## Project setup
-```
-npm install
-```
+Vue Training- reusing Logic and Data with Mixins
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Run This Project
+to run this project:
+click this link https://nisan250.github.io/mixins-vue/
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
